@@ -1,0 +1,26 @@
+This is how you add anything to a text file through vi commannd! 
+Also "Cat" command is used to read a text file or content! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
